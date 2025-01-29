@@ -1,7 +1,6 @@
 # Credit-Risk-Analysis
 
-This project focuses on extracting named entities from Telegram messages, tokenizing the data, and preparing it for further analysis. It utilizes various Python scripts, notebooks, and testing frameworks to facilitate efficient data processing.
-
+This project involves building a Credit Scoring Model for Bati Bank to assess customer risk, assign credit scores, and optimize loan amounts using eCommerce transaction data, while implementing MLOps practices for model deployment and management.
 
 ## Project Structure
 
